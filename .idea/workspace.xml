@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="588bb20b-a8a5-420c-9535-3d4ef5a40628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Chatbot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatbot_build.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chatbot_streamlit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelfile.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ollama_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ollama_runtime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="588bb20b-a8a5-420c-9535-3d4ef5a40628" name="Changes" comment="lastpush" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,9 +58,30 @@
       <updated>1735509290987</updated>
       <workItem from="1735510691997" duration="4241000" />
     </task>
+    <task id="LOCAL-00001" summary="lastpush">
+      <option name="closed" value="true" />
+      <created>1743853267266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743853267266</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lastpush">
+      <option name="closed" value="true" />
+      <created>1743853282907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743853282907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lastpush" />
+    <option name="LAST_COMMIT_MESSAGE" value="lastpush" />
   </component>
 </project>
